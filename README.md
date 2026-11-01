@@ -3,7 +3,8 @@
 # Kiiri releases
 
 Desktop builds of [Kiiri](https://kiiri.app), the little cat that lives on your desktop.
-This repo holds only release files and the auto-update feed.
+This repo holds only release files and the auto-update feed. The source code is in
+[kiiri-app/kiiri](https://github.com/kiiri-app/kiiri) (MIT).
 
 **Download:** [latest release](https://github.com/kiiri-app/kiiri-releases/releases/latest) · or [kiiri.app](https://kiiri.app)
 
@@ -18,4 +19,4 @@ Builds are not code-signed yet. On first launch macOS asks you to allow the app 
 **More info → Run anyway** in SmartScreen.
 
 The app updates itself from this repo (Windows; macOS once builds are signed).
-Bugs and ideas: [issues](https://github.com/kiiri-app/kiiri-releases/issues).
+Bugs and ideas: [issues](https://github.com/kiiri-app/kiiri/issues).
